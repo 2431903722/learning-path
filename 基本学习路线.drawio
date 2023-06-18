@@ -1,1 +1,130 @@
-<mxfile host="Electron" modified="2023-06-16T06:19:47.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="VSqonxNF0TNeJmQ_hj1i" version="20.8.16" type="device"><diagram name="第 1 页" id="13PDRCkoxlh53HnHJ3WD">7Vtbj9o6EP41fjxSEudiPyYQtq1OV5U420p9y4EsoQKCstmy9Ncfz9gJoTaUPoBDeiSEnHEu5JvxzHzjgdDR+u2hyrbFx3Ker4jnzN8IHRPP44yLbxDspSBgnhQsquVcityDYLr8kSuho6Svy3n+cnRiXZarerk9Fs7KzSaf1UeyrKrK3fFpz+Xq+KnbbJFrguksW+nSL8t5XSipG/LDxLt8uSjUo5kXyYl11pys3uSlyOblriOiKaGjqixrOVq/jfIVYNfgIq+bnJhtf1iVb+pLLnia/R3y56oYV5+yf75mn513j+Ff6i7fs9WremGShoQHJHFgwMYkTkkakSQhnOJUSphPvHAlnpn8W4nRAkbiCi9Q71nvG/Cq8nUzz+H5rjhnVyzrfLrNZjC7E9YiZEW9Xqlp/X2aH5dXdf7WEan3e8jLdV5Xe3GKmvWYwloZGw3V8a6jukYfRUdrvpJlyloW7a0PgIqBwvQ38PXM+FJANvVJMiZ8hPhSgFgBPdHxxatGJI5JKnQzIuJFxSCOCEt6h3p7bA11akCdgSUnqRrELiAaMxxIRCcwYALUgKSc8Ahm71sPjm09+AY9BIQnqIcArD9GSSwGIU5NSBLDMhBqAWgniDF7iD+mU9dxGwE3KUbcTywfeT/hpEbovxjhjnXFtKArxfj+hYph11JMYFBMBNAnE4TNAZMG/5SQmB4iwjnUcV0IzRi0iH6OhX1eOy381tZKaFAJJ7EIBwyhHCO4bWxuFo1RJcKXxRPwdAlGFhhMCIv6g/L+2L6tgR6dChQQFiIYiDggzVZZdES420H/JKDOdQE94+LZLR0JN+c3xzaquwRruP0Cp6sZWkNnfpGS9MWuwgvt6np4mYiJsCqO/kykZzJ1EJGFqaAT+xizGoZyCP4nUrj7D1VndHVbL+rqLCd+30FXYjkyMJ/hK8d6iHN1MvRp+r9y4DiyXh5wTQxJFgEw6+OYgtuOBsxgxLeNBia+EkIQAL7S4qWnGfdE37Xk2L7rMHESHzCXuYqgGUnUBOH0sjLWQPiiferimrjLcerNI5O6MFWCDCmC9IidoJCD0NLFhZbraclEkHystMQKZqg3Cgg5SsRCooDrRb5saFrqTd2yedhPa0u4OfGRzEKWiwWSPGhSp9R6oHYd27zN03nb02ZZ7++7TmXE9cYmqXOsp3T4KbrrWA+0nk6gxI0S/NxzftkDN6uzn+2+LsrNfXsL+7mhp/MlcSM64BziZx30YOffvKED2FKElJ/fmrxRxuA5ruWMwcRjGnhajnL51vxgTNiomhvbMDPohgFX4Vg5ZMjyoZFijBvuCGWMAyi+J39QLdHtgdc/wTVlj1GIfReyvChYS9iR/IFry358oCaOiT0xiYs7gpHCtCWbAv34XLZzo4jh264GU9PeYGvVDU6XV4OHY9Um1dzYqnWaim4lQB+EpcfER/OeQNCAAWvglkVkDB2Ae3PV8NUW2HdGpo7JAKpaSadBz0MQgXTRs9XjEPetMDEQl7cbAkxKAqXmfnQ6uKYd2tu6M50Fq5KZMy2yeV4NrS+1B9U0atpQDGD3m7cIsqZBJ9bh9vvQ7a75EfvNBtREehmueb/TanAS1z6bsQa3/fYBat4DFLEVuBcH+Ey90vAbe2i+zPpuHTXxXdmwPlZ95UnYyVVkH5rMQ1w4Rzfo3qHMb9npTOP0cRb++Pb4OVx/f1k8ux8WXwz/OXp6/xvp+rWcg4apAfmLY9w1m/LE4eFfYzjX+esdTf8D</diagram></mxfile>
+<mxfile host="Electron" modified="2023-06-18T14:14:02.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="_pjmWMWZTYncNRUhUAWO" version="21.2.8" type="device">
+  <diagram name="第 1 页" id="13PDRCkoxlh53HnHJ3WD">
+    <mxGraphModel dx="637" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UcL69frhDrPaTZaV0HN6-1" value="数据结构&lt;br&gt;基本完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="280" y="479" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-2" value="操作系统&lt;br&gt;初步开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="399" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-3" value="设计模式入门&lt;br&gt;未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="319" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-4" value="图形学基础（GAMES101）&lt;br&gt;已完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="559" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-5" value="线性代数&lt;br&gt;已有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="119" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-6" value="高等数学&lt;br&gt;可跳过" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="199" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-7" value="计算机科学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="319" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-9" value="数学基础" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="119" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-10" value="设计学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="719" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-11" value="平面三大构成&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="719" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-12" value="AI基本操作&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="799" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-13" value="PS基本操作&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="879" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-14" value="绘画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="999" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-15" value="板绘基础&lt;br&gt;准备开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-16" value="信号与系统&lt;br&gt;已有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="119" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-17" value="数字信号处理&lt;br&gt;已有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="119" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-19" value="人工智能基础&lt;br&gt;已有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="319" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-20" value="游戏引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1119" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-21" value="Unity&lt;br&gt;可跳过" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1119" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-22" value="UE&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1199" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-23" value="C++&lt;br&gt;未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="319" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-24" value="python&lt;br&gt;可跳过" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="399" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-25" value="C#&lt;br&gt;已有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="479" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-26" value="音乐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-27" value="乐理入门&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-28" value="虚拟歌姬创作&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1399" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-29" value="作曲编曲入门&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1479" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-30" value="影视戏剧" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1599" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-31" value="编剧基础&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-32" value="镜头语言与分镜&lt;br&gt;有基础但未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1679" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-33" value="哲学 心理&lt;br&gt;政治经济学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1799" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-34" value="Unity Shader入门&lt;br&gt;未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1119" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-35" value="博弈论&lt;br&gt;4%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1799" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-36" value="资本论&lt;br&gt;未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1879" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-37" value="毛选&lt;br&gt;20%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1959" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UcL69frhDrPaTZaV0HN6-38" value="国家与革命&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="2039" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3AENc6zjNV6mvsgf1JgW-1" value="UI基础&lt;br&gt;未开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="719" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cB1EJGfxBevIoPJIBG67-1" value="正在进行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cB1EJGfxBevIoPJIBG67-2" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cB1EJGfxBevIoPJIBG67-3" value="搁置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
